@@ -9,3 +9,4 @@ int main ()
 	cin >> value;
 	cout << "value entered" << endl;
 	return 0;
+}
